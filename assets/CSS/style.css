@@ -56,6 +56,18 @@ h1 {
   background: #fff;
   border: 1px solid #ddd;
 }
+.auth-image {
+  max-width: 40%;
+  float: left;
+}
+p {
+  float: right;
+  padding: 10px;
+  width: 55%;
+}
+.img-responsive {
+  max-width: 90%;
+}
 #connect {
   float: right;
   width: 100%;
